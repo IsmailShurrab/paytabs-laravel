@@ -1,0 +1,22 @@
+{
+    "name": "IsmailShurrab/paytabs-laravel",
+    "version": "1.0.0",     
+    "license": "LGPL-3.0",
+    "description": "Paytabs Laravel",
+    "authors": [
+        {
+            "name": "Ismail Shurrab",
+            "email": "ism.sh@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Damas\\Paytabs": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
