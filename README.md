@@ -4,7 +4,7 @@
 Begin by installing this package through Composer. Just run following command to terminal-
 
 ```php
-composer require maq89/paytabs-laravel
+composer require IsmailShurrab/paytabs-laravel
 ```
 
 Once this operation completes, the final step is to add the service provider. Open config/app.php, and add a new item to the providers array.
